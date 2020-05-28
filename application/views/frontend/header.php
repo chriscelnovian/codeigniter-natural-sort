@@ -12,6 +12,9 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="<?php echo base_url("assets/bootstrap/css/bootstrap.min.css"); ?>">
 
+    <!-- Custom Style -->
+    <link rel="stylesheet" href="<?php echo base_url("assets/custom/css/custom-style.css"); ?>">
+
 </head>
 
 <!-- Header -->
@@ -30,9 +33,6 @@
         <ul class="navbar-nav">
             <li class="nav-item active">
                 <a class="nav-link" href="#">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Menu</a>
             </li>
         </ul>
     </div>
